@@ -35,19 +35,19 @@ Online Retail Data Analytics is an end-to-end project that extracts actionable i
    
 **Pipeline Overview**
 
-Data Loading:
+**Data Loading:**
 Reads the CSV file (with latin1 encoding) to display initial records and dataset information.
 
-Data Cleaning:
+**Data Cleaning:**
 Handles missing values, merges product descriptions, and removes invalid quantity/price entries.
 
-Feature Engineering:
+**Feature Engineering:**
 Creates new columns such as TotalSales (calculated as Quantity × UnitPrice) and extracts the Month from InvoiceDate.
 
-Visualization:
+**Visualization:**
 Generates plots to illustrate monthly sales trends, country-wise revenue distribution (absolute and percentage contributions), and product-wise sales performance.
 
-Customer Analysis:
+**Customer Analysis:**
 Applies RFM segmentation and churn analysis to identify high-value and at-risk customers.
 
 Metrics & Insights
