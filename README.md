@@ -34,6 +34,7 @@ Online Retail Data Analytics is an end-to-end project that extracts actionable i
    pip install openpyxl pandas matplotlib
    
 **Pipeline Overview**
+
 Data Loading:
 Reads the CSV file (with latin1 encoding) to display initial records and dataset information.
 
