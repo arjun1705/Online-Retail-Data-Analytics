@@ -52,8 +52,7 @@ Generates plots to illustrate monthly sales trends, country-wise revenue distrib
 Applies RFM segmentation and churn analysis to identify high-value and at-risk customers.
 
 **Metrics & Insights 📌**
-
--500K+ Transactions Processed
--98% Data Integrity Achieved
--30% Seasonal Sales Surge Identified
--10% Improvement in Customer Retention Targeted
+- 500K+ Transactions Processed
+- 98% Data Integrity Achieved
+- 30% Seasonal Sales Surge Identified
+- 10% Improvement in Customer Retention Targeted
