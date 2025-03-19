@@ -19,10 +19,10 @@ Online Retail Data Analytics is an end-to-end project that extracts actionable i
   - Conduct churn analysis based on 90+ days of inactivity, targeting a 10% improvement in customer retention.
 
 ## Technologies 💻
-- **Python** 🐍
-- **Pandas** 🐼
-- **Matplotlib** 📈
-- **Openpyxl** 📄
+- **Python** 
+- **Pandas** 
+- **Matplotlib** 
+- **Openpyxl** 
 
 ## Installation 🔧
 1. **Dataset Setup:**
@@ -52,7 +52,8 @@ Generates plots to illustrate monthly sales trends, country-wise revenue distrib
 Applies RFM segmentation and churn analysis to identify high-value and at-risk customers.
 
 **Metrics & Insights 📌**
-500K+ Transactions Processed
-98% Data Integrity Achieved
-30% Seasonal Sales Surge Identified
-10% Improvement in Customer Retention Targeted
+
+-500K+ Transactions Processed
+-98% Data Integrity Achieved
+-30% Seasonal Sales Surge Identified
+-10% Improvement in Customer Retention Targeted
